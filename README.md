@@ -3,8 +3,7 @@
       <h2 align="center">Hey, I'm Mario Octavio</h2>
       <p align="center">
         Born and raised in Costa Rica, between the city on the central valley, and the natural beauty of Guanacaste province.
-        <br>I'm a Web Application Engineer, currently working as VP of engineering at <a href="https://kleeen.cr/" target="_blank">Kleeen Software</a>.
-        <br> I work mainly with JavaScript-based technologies. Nowadays, I use GitHub as a place to keep track of the projects I've built while exploring innovative or trending technologies. 
+        <br>I'm an enthusiastic Web Application Engineer who loves to explore new and trending technologies. I've been using JavaScript for most of my career, but I have also worked with other languages such as Ruby and Java early on in my carrier; it's fascinating how each technology can bring something unique! 
         <br>Some of my repositories include projects built for <a href="https://github.com/MOctavio/viz_data" target="_blank">Processing<a>, <a href="https://github.com/MOctavio/Avoider" target="_blank">Arduino<a>, and even some games on <a href="https://github.com/MOctavio/sector_five" target="_blank">Ruby</a>, all of which I do as a hobby to let go of the creativity.
         <br>
       </p>
