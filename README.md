@@ -2,9 +2,9 @@
    <body>
       <h2 align="center">Hey, I'm Mario Octavio</h2>
       <p align="center">
-        Born and raised in Costa Rica, between the city on the central valley, and the natural beauty of Guanacaste province.
-        <br>I'm an enthusiastic Web Application Engineer who loves to explore new and trending technologies. I've been using JavaScript for most of my career, but I have also worked with other languages such as Ruby and Java early on in my carrier; it's fascinating how each technology can bring something unique! 
-        <br>Some of my repositories include projects built for <a href="https://github.com/MOctavio/viz_data" target="_blank">Processing<a>, <a href="https://github.com/MOctavio/Avoider" target="_blank">Arduino<a>, and even some games on <a href="https://github.com/MOctavio/sector_five" target="_blank">Ruby</a>, all of which I do as a hobby to let go of the creativity.
+        Growing up in Costa Rica between the urban sprawl of its central valley and the breathtaking scenery of Guanacaste province.
+        <br>I am an enthusiastic Web Application Engineer passionate about discovering novel and cutting-edge technologies. While my expertise lies in JavaScript, I also have experience with Ruby and Java early in my career; it's incredible how each language offers something unique!
+        <br>During my free time, I like to use <a href="https://github.com/MOctavio/viz_data" target="_blank">Processing<a>, <a href="https://github.com/MOctavio/Avoider" target="_blank">Arduino<a>, or even create some fun games with <a href="https://github.com/MOctavio/sector_five" target="_blank">Ruby</a> – all just for a bit of creative experimentation.
         <br>
       </p>
       <h2 align="center">Skills</h2>
